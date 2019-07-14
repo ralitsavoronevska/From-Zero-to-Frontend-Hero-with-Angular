@@ -2,6 +2,7 @@
 An Angular 7 Workshop event that was powered by Accedia.
 
 Facebook event: https://www.facebook.com/events/858081307884695/
+
 Github repository: https://github.com/ivankollev/angular-workshop
 
 # Angular 7 Workshop
